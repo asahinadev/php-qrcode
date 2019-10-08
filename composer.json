@@ -1,0 +1,12 @@
+{
+	"name" : "qrcoder/qrcoder",
+	"autoload" : {
+		"psr-4" : {
+			"Qrcoder\\" : "src"
+		}
+	},
+	"require" : {
+		"php" : ">=7.2",
+		"endroid/qrcode" : "~3.6"
+	}
+}
